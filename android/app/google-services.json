@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "243970541594",
+    "firebase_url": "https://cityanal.firebaseio.com",
+    "project_id": "cityanal",
+    "storage_bucket": "cityanal.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:243970541594:android:8814bb2934255b73c229a3",
+        "android_client_info": {
+          "package_name": "com.example.cityanal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "243970541594-5egdtomluo0dr6ngmgjk32c26e8ivv05.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA80dJZ0l5vB6YtkeEs9VbunH7533BbTEg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "243970541594-5egdtomluo0dr6ngmgjk32c26e8ivv05.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
